@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017424107306",
+    "project_id": "phone-5b506",
+    "storage_bucket": "phone-5b506.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017424107306:android:478b68cf8c06836c8f7053",
+        "android_client_info": {
+          "package_name": "com.example.phonebook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANnaSfw3OJjHLvcCm77hg7PorDtutEJhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
